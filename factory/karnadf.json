@@ -1,0 +1,9 @@
+{
+	"name": "karnadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8048a122-20ea-4270-a7e0-74cef6377939",
+		"tenantId": "e485910d-2a02-4dd3-a059-a4971d21c972"
+	}
+}
